@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/xitongsys/parquet-go-source/local"
-	"github.com/xitongsys/parquet-go-source/mem"
+	"github.com/dhirajalias001/parquet-go-source/local"
+	"github.com/dhirajalias001/parquet-go-source/mem"
 	"github.com/xitongsys/parquet-go/parquet"
 	"github.com/xitongsys/parquet-go/reader"
 	"github.com/xitongsys/parquet-go/writer"

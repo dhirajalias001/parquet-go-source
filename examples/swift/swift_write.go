@@ -9,7 +9,7 @@ import (
 	"github.com/xitongsys/parquet-go/reader"
 	"github.com/xitongsys/parquet-go/writer"
 
-	"github.com/xitongsys/parquet-go-source/swift"
+	"github.com/dhirajalias001/parquet-go-source/swift"
 )
 
 type Student struct {

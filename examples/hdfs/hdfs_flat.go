@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/xitongsys/parquet-go-source/hdfs"
+	"github.com/dhirajalias001/parquet-go-source/hdfs"
 	"github.com/xitongsys/parquet-go/reader"
 	"github.com/xitongsys/parquet-go/writer"
 )
